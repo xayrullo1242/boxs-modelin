@@ -1,0 +1,50 @@
+*.text1 {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 35px;
+
+}
+
+
+.text2 {
+    display: flex;
+    justify-content: space-around;
+  
+    
+
+}
+
+.text3 {
+    width: 558px;
+    height: 450px;
+    background-color: brown;
+    color: #ffffff;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text4 {
+    width: 558px;
+    height: 450px;
+    background-color: brown;
+    color: #ffffff;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text5 {
+   text-align: center;
+}
+
+.text6{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 35px;
+
+}
